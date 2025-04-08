@@ -8,7 +8,7 @@
 
 ## Overview
 
-The **Automated Music Track Generator** is a cutting-edge project that combines algorithmic composition with real-time sound synthesis. Written entirely in C, this tool dynamically generates musical scores and synthesizes them using [Csound](https://csound.com). By merging controlled randomness with user-defined parameters, the generator produces unique musical compositions that adapt to your specified tempo, scale, and section duration.
+The **Automated Music Track Generator** is a rather simple project that combines algorithmic composition with real-time sound synthesis. Written entirely in C, this tool dynamically generates musical scores and synthesizes them using [Csound](https://csound.com). By merging controlled randomness with user-defined parameters, the generator produces unique musical compositions that adapt to your specified tempo, scale, and section duration.
 
 This project was developed as an experimental platform to explore the intersection of algorithmic art and digital sound synthesis. My long-term vision is to extend this work with deep learning techniques for creating adaptive, high-quality music.
 
